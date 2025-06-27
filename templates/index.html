@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Diamond Price Predictor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+      text-align: center;
+      padding: 100px;
+    }
+
+    h1 {
+      font-size: 3em;
+      color: #333;
+      margin-bottom: 40px;
+    }
+
+    .btn {
+      padding: 15px 30px;
+      font-size: 18px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to the Diamond Price Predictor</h1>
+  <a href="{{ url_for('predict_datapoint') }}" class="btn">Calculate Diamond Price</a>
+
+</body>
+</html>
