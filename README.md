@@ -6,7 +6,7 @@ A machine learning web application built with **Flask** that predicts the price 
 
 ## 📽️ Demo
 
-[[Watch the demo](Snapshots and Video/Video)]
+[🎥 Watch the Demo](https://github.com/Vishnukumards/Diamond_Price_Prediction/blob/main/Snapshots%20and%20Video/Video/project_video.mp4)
 
 ---
 
