@@ -6,7 +6,7 @@ A machine learning web application built with **Flask** that predicts the price 
 
 ## 📽️ Demo
 
-[[Watch the demo]()]
+[[Watch the demo](Snapshots and Video/Video)]
 
 ---
 
