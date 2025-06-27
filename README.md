@@ -1,6 +1,3 @@
----
-
-````markdown
 # 💎 Diamond Price Predictor
 
 A machine learning web application built with **Flask** that predicts the price of a diamond based on key features like **carat, cut, color, and clarity**. This project aims to bring transparency and data-driven accuracy to diamond pricing — especially helpful for both buyers and sellers.
@@ -37,6 +34,7 @@ Most people are unaware of how diamonds are actually priced. Pricing depends on 
 - **pandas**
 - **scikit-learn**
 - **HTML/CSS (Flask templates)**
+- **End-to-End Pipelines**
 
 ---
 
@@ -46,7 +44,6 @@ Most people are unaware of how diamonds are actually priced. Pricing depends on 
    ```bash
    git clone https://github.com/your-username/diamond-price-predictor.git
    cd diamond-price-predictor
-````
 
 2. Create a virtual environment and activate it
 
